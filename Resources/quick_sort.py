@@ -33,4 +33,4 @@ e_time = time.time()
 
 
 print("Disk usage statistics : ", usage)
-print("Time Complexity of the progarm : ",e_time - s_time)
+print("Time Complexity of the progarm : ",e_time - s_time);
